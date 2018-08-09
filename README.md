@@ -1,2 +1,2 @@
 # Why have this FAQ?
-when i am writting code, i will meet many problems, through the web i can got the answer finally.but when time pass by, i will forget them, so i decide to open a repository to record them
+when i am writting code, i will meet many problems, through the web i can got the answer finally.but when time pass by, i will forget them, so i decide to open a repository to record them.
